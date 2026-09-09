@@ -1,28 +1,24 @@
-# SpacePad
 
-A macropad is similar to a small keyboard with each component having a custom function.
+B2 BomboPad is a custom six-key macropad with two rotary encoders, designed and built from scratch.
 
-This design includes a matrix of 6 keys and 2 rotary encoders.
+Its angular PCB and enclosure are inspired by the silhouette of the B-2 Spirit stealth bomber. The design combines a functional macropad with an aircraft-inspired industrial aesthetic.
 
-The PCB and 3D cases are designed in such a manner to look like the fighter jet - B2 Stealth Bomber.
+## Features
 
-Keymap
+- 6 mechanical keys
+- 2 rotary encoders with push switches
+- Seeed Studio XIAO RP2040 microcontroller
+- 2 × 3 diode key matrix
+- Custom PCB designed in KiCad
+- Custom top and bottom enclosure designed in Onshape
+- QMK firmware
+- Gerber files included for PCB fabrication
 
-   W
- A S D
-up  down
+## Key Layout
 
-The two rotary encoders are on the last row are for the following functions:
-Left Rotary Encoder: Volume
-Right Rotary Encoder: Scroll
+```text
+        W
 
-The files include all the 3d models for each component that was used in the 3D Models folder.
+     A  S  D
 
-The symbols and footprints for each component are in the Symbols & Footprint folder.
-
-The PCB designs, schematics are in the PCB folder.
-
-The CAD files for the bottom and top case, also the final assembly are in the CAD folder.
-
-'An Engineering Marvel meets another' 
-PS: I might be too kind to call B2 Bomber an engineering marvel as equivalent to this mind-boggling macropad, but it's fine.
+       ↑  ↓
