@@ -32,14 +32,14 @@ Its angular PCB and enclosure are inspired by the silhouette of the B-2 Spirit s
 - 6x through hole 1N4148 Diodes
 - 2x EC11E Rotary Encoders
 
-##Images
+## Images
 
-#PCB
+# PCB
 
 ![SpacePad PCB routing+layout](Images/8.jpeg)
 ![SpacePad 3D render of PCB](Images/9.jpeg)
 
-#CAD
+# CAD
 
 ![Final assembly CAD](Images/19.jpeg)
 ![Assembly Breakdown CAD](Images/20.jpeg)
