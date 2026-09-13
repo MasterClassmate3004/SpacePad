@@ -26,8 +26,8 @@ Its angular PCB and enclosure are inspired by the silhouette of the B-2 Spirit s
 
 ## Bills of Materials
 
-1x Seeed XIAO RP2040
-6x MX-Style Switches
-6x White Blank DSA keycaps
-6x through hole 1N4148 Diodes
-2x EC11E Rotary Encoders
+- 1x Seeed XIAO RP2040
+- 6x MX-Style Switches
+- 6x White Blank DSA keycaps
+- 6x through hole 1N4148 Diodes
+- 2x EC11E Rotary Encoders
