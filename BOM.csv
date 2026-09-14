@@ -1,5 +1,6 @@
-1x Seeed XIAO RP2040
-6x MX-Style Switches
-6x White Blank DSA keycaps
-6x through hole 1N4148 Diodes
-2x EC11E Rotary Encoders
+Quantity,Part,Description
+1,Seeed Studio XIAO RP2040,Microcontroller
+6,MX-style mechanical switch,Keyboard switches
+6,White blank DSA keycap,Keycaps
+6,1N4148 diode,Through-hole diodes
+2,EC11E rotary encoder,Rotary encoders
